@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/icons/1.png",
+    "title": "Assets",
+    "link": "/service-details",
+    "text": "Find out about the Generation Union asset Portfolio."
+  },
+  {
+    "id": "2",
+    "icon": "/images/icons/2.png",
+    "title": "Blockchain",
+    "link": "/service-details",
+    "text": "Find out about our technical services with GUT"
+  },
+  {
+    "id": "3",
+    "icon": "/images/icons/3.png",
+    "title": "Democracy",
+    "link": "/service-details",
+    "text": "Find out more about our voting principles"
+  }
+]

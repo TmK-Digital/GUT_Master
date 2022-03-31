@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "icon": "/images/icons/asset.png",
+    "title": "assets",
+    "text": "Providing the technical solution for monetising real world assets for investment to an ever growing self sustained asset ecosystem."
+    
+  },
+  {
+    "id": "2",
+    "icon": "/images/icons/decentralized.png",
+    "title": "Decentralised",
+    "text": "Peer to peer technology removes the requirement for middlemen. Enabling cheaper transactions & fully democratic voting systems, whilst removing corruption.",
+    "url": "/service-details"
+  },
+  {
+    "id": "3",
+    "icon": "/images/icons/rich.png",
+    "title": "Wealth",
+    "text": "GUT Token is backed by real world assets. Coins are released according to the value of the assets making it deflationary. Wealth is distributed directly between asset owners & investors.",
+    "url": "/service-details"
+  },
+  {
+    "id": "4",
+    "icon": "/images/icons/encrypted.png",
+    "title": "Security",
+    "text": "Using Proof Of Stake Blockchain technology transactions are encrypted ensuring tokens & transactions are secure.",
+    "url": "/service-details"
+  }
+
+]
