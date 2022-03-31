@@ -28,7 +28,7 @@ const MobileNavMenu = () => {
               
             </li>
             <li>
-              <Link to={process.env.PUBLIC_URL + "/nft-assets"}>NFT Assets</Link>
+              <Link to={process.env.PUBLIC_URL + "/nft-asset"}>NFT Assets</Link>
             </li>
           </ul>
         </li>

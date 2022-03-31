@@ -58,7 +58,7 @@ const MobileMenu = () => {
       
 
           {/* mobile nav menu */}
-          <MobileNavMenu />
+     ee     <MobileNavMenu />
           <MobileWidgets />
         </div>
       </div>
